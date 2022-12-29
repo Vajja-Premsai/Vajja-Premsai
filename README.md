@@ -6,9 +6,9 @@
 
 - 👋 Hi, I’m @Vajja-Premsai
 - 🌱 I’m currently learning Web Development
-- - 👨🏽‍💻 I’m currently a student at GMR Institute of Technology
+- 👨🏽‍💻 I’m currently a student at GMR Institute of Technology
 - 💞️ I’m currently a student Co-Ordinator of ACM-Gmrit
--- 📫 How to reach me: <a href="mailto:premsaiv518@gmail.com">premsaiv518@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:premsaiv518@gmail.com">premsaiv518@gmail.com</a>
 
 
 
