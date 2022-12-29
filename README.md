@@ -1,22 +1,24 @@
-- 👋 Hi, I’m @Vajja-Premsai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---<div align="center">
-  <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Dhamareshwarakumar Gandikota Here</h2>
-  <i>I am a <b>Cyber Security Enthusiast</b>.</i>
+<div align="center">
+  <h2>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Vajja Premsai  Here</h2>
+  <i>I am a <b>Web Developer </b>.</i>
 </div>
+
+
+- 👋 Hi, I’m @Vajja-Premsai
+- 🌱 I’m currently learning Web Development
+- - 👨🏽‍💻 I’m currently a student at GMR Institute of Technology
+- 💞️ I’m currently a student Co-Ordinator of ACM-Gmrit
+-- 📫 How to reach me: <a href="mailto:premsaiv518@gmail.com">premsaiv518@gmail.com</a>
+
+
 
 <img align="right" alt="GIF" src="https://github.com/Dhamareshwarakumar/Dhamareshwarakumar/blob/main/code.gif?raw=true" width="400" height="260" />
   
 ## Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a student at GMR Institute of Technology
-- 🚀 I’m currently a student Co-Ordinator at ACM-GMRIT
-- 🌱 I’m currently learning Ethical Hacking and Web Development 
-- 📫 How to reach me: <a href="mailto:damareshwarakumar@gmail.com">damareshwarakumar@gmail.com</a>
+
+
+
 <!-- - 📝[Resume](link-here) -->
 
 ## Languages and Tools:
