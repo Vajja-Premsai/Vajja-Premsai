@@ -1,10 +1,10 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Vajja Premsai</h1>
-
+<div align="center">
 <div id="badges">
   <!-- Other badges here -->
   <img src="https://komarev.com/ghpvc/?username=Vajja-Premsai&style=flat-square&color=blue" alt=""/>
 </div>
-
+</div>
 
 
 
