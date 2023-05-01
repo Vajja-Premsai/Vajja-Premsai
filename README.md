@@ -3,6 +3,8 @@
 <div id="badges">
   <!-- Other badges here -->
   <img src="https://komarev.com/ghpvc/?username=Vajja-Premsai&style=flat-square&color=blue" alt="" width="145" height="45"/>
+  https://img.shields.io/badge/dynamic/json?label=Profile%20views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FVajja-Premsai%2Fvisits%3Fmin%3D1200&color=blue&style=flat-square
+
 </div>
 
 </div>
