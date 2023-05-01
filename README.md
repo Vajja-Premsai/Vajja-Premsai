@@ -1,4 +1,5 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm VAjja Premsai</h1>
+![Visitor Count](https://profile-counter.glitch.me/{Vajja-Premsai}/count.svg)
 
 
 
