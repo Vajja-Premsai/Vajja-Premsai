@@ -2,7 +2,7 @@
 <div align="center">
 <div id="badges">
   <!-- Other badges here -->
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="" width="100" height="20"/>
+  <img src="https://komarev.com/ghpvc/?username=Vajja-Premsai&style=flat-square&color=blue" alt="" width="100" height="20"/>
 </div>
 
 </div>
