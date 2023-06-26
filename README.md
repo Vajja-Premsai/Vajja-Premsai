@@ -79,7 +79,7 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=kumaraditya303&show_icons=true&theme=radical)
-  <img align="center" src="https://github-readme-stats..vercel.app/api?username=Vajja-Premsai&show_icons=true" />
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vajja-Premsai&show_icons=true&theme=radical" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vajja-Premsai&" alt="Vajja-Premsai" />
 </div>
