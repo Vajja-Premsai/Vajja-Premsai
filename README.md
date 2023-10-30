@@ -9,6 +9,7 @@
 </div>
 
 </div>
+[![An image of @vajjapremsai's Holopin badges](https://holopin.me/vajjapremsai)](https://holopin.io/@vajjapremsai)
 
 
 
