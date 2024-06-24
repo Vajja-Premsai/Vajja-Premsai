@@ -17,9 +17,7 @@
  <img src ="./banner.png" />
   
 </div>
-<a href="https://holopin.io/@vajjapremsai">
-    <img src="https://holopin.me/vajjapremsai" alt="An image of @vajjapremsai's Holopin badges">
-</a>
+
 
  <br/>
 
